@@ -3,6 +3,7 @@ steps:-
 1. launch 3 ec2 (jenkins+Ansible+Webapp)
 2. ensure docker installed on Ansible and Webapp server + ssh connection
 3. steps
+4. Review
 
 ........................................................
 
